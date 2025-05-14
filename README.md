@@ -1,6 +1,6 @@
 # Exno.10-Prompt-Engg
 # Date :08.05.2025
-# Register no:212222040035
+# Register no:212223060203
 # Aim: 
 To perform Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
